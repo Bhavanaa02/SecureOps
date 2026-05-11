@@ -30,7 +30,7 @@ SecureOps is an automated security analysis and developer guidance platform desi
 ### Clone repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Bhavanaa02/SecureOps
 cd SecureOps
 ```
 
